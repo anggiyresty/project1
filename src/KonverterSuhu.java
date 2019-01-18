@@ -237,6 +237,7 @@ public class KonverterSuhu extends javax.swing.JFrame {
         jSeparator1.setBounds(100, 48, 390, 2);
 
         jLabel2.setFont(new java.awt.Font("MS Reference Sans Serif", 1, 18)); // NOI18N
+        jLabel2.setForeground(new java.awt.Color(255, 0, 0));
         jLabel2.setText("CONVERSIONS");
         getContentPane().add(jLabel2);
         jLabel2.setBounds(40, 190, 210, 45);
@@ -270,6 +271,7 @@ public class KonverterSuhu extends javax.swing.JFrame {
         txtKelvin.setBounds(120, 360, 181, 30);
 
         jLabel7.setFont(new java.awt.Font("Aharoni", 1, 26)); // NOI18N
+        jLabel7.setForeground(new java.awt.Color(255, 0, 0));
         jLabel7.setText("TEMPERATURE CONVERTER");
         jLabel7.setVerticalAlignment(javax.swing.SwingConstants.TOP);
         getContentPane().add(jLabel7);
